@@ -1,0 +1,91 @@
+body{
+    background-color: beige;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 160px;
+    top: 50px;
+    font-size: 24px;
+}
+#home{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+    text-align: right;
+}
+#profpic{
+    position: relative;
+    width: 220px;
+    height: 200px;
+    left: 120px;
+    top: 50px;
+    border-radius: 50%;
+}
+h4{
+    text-align: center;
+    font-size: 24px;
+}
+.box{
+    position: relative;
+    left: 400px;
+    bottom: 200px;
+    width: 700px;
+    font-size: 20px;
+    font-style:inherit;
+    word-wrap: break-word;
+    background-color: aliceblue;
+    border-radius: 5%;
+}
+#right-panel{
+    position: relative;
+    background-color: aliceblue;
+    width: 300px;
+    height: 500px;
+    left: 1150px;
+    bottom: 430px;
+    border-radius: 3%;
+}
+.table-ed{
+    margin-left: auto;
+    margin-right: auto;
+}
+.box2{
+    position: relative;
+    left: 400px;
+    bottom: 700px;
+    width: 700px;
+    font-size: 20px;
+    font-style:inherit;
+    word-wrap: break-word;
+    background-color: aliceblue;
+    border-radius: 5%;
+}
+textarea{
+    position:sticky;
+    width:400px;
+    height: 40px;
+}
+input[type="button"]{
+    position:relative;
+    left: 200px;
+    bottom: 15px;
+    width: 2cm;
+    height: 1cm;
+}
+#box3{
+    position: relative;
+    background-color: aliceblue;
+    width: 300px;
+    height: 210px;
+    left: 75px;
+    bottom: 950px;
+    border-radius: 3%
+}
+input[type="email"]:hover{
+    background-color: cadetblue;
+}
+#phone:hover{
+    background-color: cadetblue;
+}
